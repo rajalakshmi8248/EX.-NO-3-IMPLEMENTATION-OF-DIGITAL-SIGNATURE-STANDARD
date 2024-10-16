@@ -107,7 +107,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/110a244c-5679-4ad9-b9c7-c9ca396a10fe)
+![Screenshot 2024-10-16 153258](https://github.com/user-attachments/assets/750ee942-5185-49a8-ac43-3db7e5eb9541)
+
 
 ## RESULT:
   Thus the simple Code Optimization techniques had been implemented successfully
